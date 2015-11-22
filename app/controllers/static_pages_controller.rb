@@ -16,4 +16,7 @@ class StaticPagesController < ApplicationController
   
   def aftertest
   end
+  
+  def befor
+  end
 end
