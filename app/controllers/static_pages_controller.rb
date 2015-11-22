@@ -19,4 +19,7 @@ class StaticPagesController < ApplicationController
   
   def befor
   end
+  
+  def test
+  end
 end
