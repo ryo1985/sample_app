@@ -13,4 +13,7 @@ class StaticPagesController < ApplicationController
   
   def newtwo
   end
+  
+  def aftertest
+  end
 end
